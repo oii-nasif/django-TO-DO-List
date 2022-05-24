@@ -1,2 +1,6 @@
 ### django-TO-DO-List
-To-Do List App __django
+-------------------------------
+**Features**
+* Registration/Login
+* CRUD Operation
+* Search Operation
